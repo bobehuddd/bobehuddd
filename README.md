@@ -1,5 +1,8 @@
-## Hi there 👋
+### Halo World 👋
+My name **Bob Ehud Rifael Gultom** you also can call me **Bob or Mas Ehud**.\
 
+Now, I'm studying Bachelor's Degree in **Informatics** at **Duta Wacana Christian University**.\
+I took the major profile **PSD or Programming and Software Development** and am also studying **Virtual Reality** to create **Virtual Classroom**
 <!--
 **bobehuddd/bobehuddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<a href="https://github.com/bobehuddd">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bobehuddd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bobehuddd&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
