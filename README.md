@@ -1,7 +1,7 @@
 ### Halo World 👋
-My name **Bob Ehud Rifael Gultom** you also can call me **Bob or Mas Ehud**.\
+My name **Bob Ehud Rifael Gultom** you also can call me **Bob or Mas Ehud**.
 
-Now, I'm studying Bachelor's Degree in **Informatics** at **Duta Wacana Christian University**.\
+Now, I'm studying Bachelor's Degree in **Informatics** at **Duta Wacana Christian University**.
 I took the major profile **PSD or Programming and Software Development** and am also studying **Virtual Reality** to create **Virtual Classroom**
 <!--
 **bobehuddd/bobehuddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
