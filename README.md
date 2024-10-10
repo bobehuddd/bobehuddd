@@ -1,4 +1,4 @@
-### Halo World 👋
+### Hello World 👋
 My name is **Bob Ehud Rifael Gultom**, you also can call me **Bob or Mas Ehud**.
 
 Now, I'm studying Bachelor's Degree in **Informatics** at **Duta Wacana Christian University**.
