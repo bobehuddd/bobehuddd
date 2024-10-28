@@ -41,3 +41,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bobehuddd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=bobehuddd&icon=0&color=5)](https://visitcount.itsvg.in)
