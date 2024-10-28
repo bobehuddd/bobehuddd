@@ -5,7 +5,7 @@ Now, I'm studying Bachelor's Degree in **Informatics** at **Duta Wacana Christia
 
 I took the major profile **PSD or Programming and Software Development** and am also studying **Virtual Reality** to create **Virtual Classroom**
 
-# 💻 **Tech Stack**
+## 💻 **Tech Stack**
 
 ## **Game Design and Virtual Reality** 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
