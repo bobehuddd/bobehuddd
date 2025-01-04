@@ -43,10 +43,4 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bobehuddd/bobehuddd/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bobehuddd/bobehuddd/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bobehuddd/bobehuddd/output/github-snake.svg" />
-</picture>
-
 [![](https://visitcount.itsvg.in/api?id=bobehuddd&icon=0&color=5)](https://visitcount.itsvg.in)
