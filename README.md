@@ -11,6 +11,7 @@ I took the major profile **PSD or Programming and Software Development** and am 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## **Web Development**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,5 +42,11 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bobehuddd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bobehuddd/bobehuddd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bobehuddd/bobehuddd/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bobehuddd/bobehuddd/output/github-snake.svg" />
+</picture>
 
 [![](https://visitcount.itsvg.in/api?id=bobehuddd&icon=0&color=5)](https://visitcount.itsvg.in)
