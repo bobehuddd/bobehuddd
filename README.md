@@ -3,7 +3,7 @@ My name is **Bob Ehud Rifael Gultom**, you also can call me **Bob or Mas Ehud**.
 
 Now, I'm studying Bachelor's Degree in **Informatics** at **Duta Wacana Christian University**.
 
-I took the major profile **PSD or Programming and Software Development** and am also studying **Virtual Reality** to create **Virtual Classroom**
+I majored in **PSD or Programming and Software Development** and am also studying **Virtual Reality** to create **Virtual Classroom**
 
 ## 💻 **Tech Stack**
 
